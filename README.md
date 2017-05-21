@@ -20,15 +20,9 @@ Play around with clojure :)
 
  - Fix and improve the tests 
 
-## Examples
-
-...
-
 ### Bugs
 
  - It isn't fetching the second page. It seems there is something wrong with the cookies, it's like the second request isn't authenticated
-
-...
 
 ## License
 
