@@ -5,6 +5,11 @@ A wee crawler for shodan.io
 ## Motivation
 Play around with clojure :)
 
+## Requirements
+
+1) Java JDK version 6 or later
+2) [Leiningen](https://leiningen.org/)
+
 ## Usage
 
 ```
